@@ -7,7 +7,7 @@ Backend/Blockchain developer & Trader
 I have been trading for over 4 years and want to combine my interest in finance and IT
 
 * 🌍  I'm based in Moscow
-* 🚀  I'm currently working on [Telegram channel](http://t.me/strugglethoughts)
+* 🚀  I'm currently working on [Telegram channel](http://t.me/cyptoneft)
 * 🧠  I'm learning GO, Solidity, JS
 * 🤝  I'm open to collaborating on crypto/financial projects
 * ⚡  My articles: https://teletype.in/@neftyanik
