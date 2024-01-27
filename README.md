@@ -8,7 +8,7 @@ I have been trading for over 4 years and want to combine my interest in finance 
 
 * 🌍  I'm based in Moscow
 * 🚀  I'm currently working on [Telegram channel](http://t.me/cyptoneft)
-* 🧠  I'm learning GO, Solidity, JS
+* 🧠  I'm learning GO, Solidity, Python, JS
 * 🤝  I'm open to collaborating on crypto/financial projects
 * ⚡  My articles: https://teletype.in/@neftyanik
 
