@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 Backend/Blockchain developer & Trader
+-------------------------------------
 ex. Crypton creator
 -------------------------------------
 I have been trading for over 5 years and want to combine my interest in finance and IT
