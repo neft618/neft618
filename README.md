@@ -2,13 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 Backend/Blockchain developer & Trader
+ex. Crypton creator
 -------------------------------------
-
-I have been trading for over 4 years and want to combine my interest in finance and IT
+I have been trading for over 5 years and want to combine my interest in finance and IT
 
 * 🌍  I'm based in Moscow
 * 🚀  I'm currently working on [Telegram channel](http://t.me/neft_thoughts)
-* 🧠  I'm learning GO, Solidity, Python, JS
+* 🧠  I'm learning FunC, Solidity, Python, React
 * 🤝  I'm open to collaborating on crypto/financial projects
 * ⚡  My articles: https://teletype.in/@neft618
 
